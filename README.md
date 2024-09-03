@@ -1,4 +1,4 @@
-# Media Recommendation System
+# Media Recommendation System (In-Progress)
 
 A media recommendation system that allows users to search for movies, anime, and TV shows and view recommendations based on cosine similarity of descriptions. The system is built using Python with the `pandas`, `numpy`, `sklearn`, and `customtkinter` libraries.
 
